@@ -1,4 +1,4 @@
-# integration-test-repo-demo
+# iintegration-test-repo-chat
 A demo of integration with Github
 
-[![Build Status](https://travis-ci.org/danielstern/integration-test-repo-demo.svg?branch=master)](https://travis-ci.org/danielstern/integration-test-repo-demo)
+[![Build Status](https://travis-ci.org/jameskdoherty/integration-test-repo-chat.svg?branch=master)](https://travis-ci.org/jameskdoherty/integration-test-repo-chat)
