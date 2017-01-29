@@ -1,0 +1,27 @@
+{
+  "name": "github-integration-chat",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "start": "gulp"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jameskdoherty/integration-test-repo-chat.git"
+  },
+  "author": "jameskdoherty",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jameskdoherty/integration-test-repo-chat/issues"
+  },
+  "homepage": "https://github.com/jameskdoherty/integration-test-repo-chat#readme",
+  "dependencies": {
+    "express": "3.x",
+    "gulp": "^3.9.1",
+    "socket.io": "0.9.x"
+  },
+  "devDependencies": {
+    "nodemon": "^1.9.2"
+  }
+}
